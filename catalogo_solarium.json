@@ -1,0 +1,909 @@
+{
+    "Audi": {
+        "A3": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "A4": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "A5": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "A7": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "RS3": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "RS4": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "RS5": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "RS6": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Q3": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Q5": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Q7": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Q8": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "RSQ8": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "TT": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "TTRS": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Bugatti": {
+        "Chiron": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Bolide": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Divo": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Veyron": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Tourbillion": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Chevrolet": {
+        "Camaro ZL1": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Camaro ZLE": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Corvette C6": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Corvette C7": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Corvette C8": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Dodge": {
+        "Charger": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Challenger": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Demon": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Viper": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Ferrari": {
+        "330 California": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "458 GTB": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "458 Pista": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "812 Superfast": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "LaFerrari": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "PuroSangue": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Hyundai": {
+        "Creta": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Elantra": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "HB20": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "HB20s": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Veloster": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Jaguar": {
+        "F-Type": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "E-Pace": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "F-Pace": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "I-Pace": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Koenigsegg": {
+        "Agera": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Agera RS": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "CC8S": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "CCGT": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Gemera": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Jesko": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Jesko Absolut": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "One:1": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Regera": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Lamborghini": {
+        "Aventador": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Aventador SV": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Aventador SVJ": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Centenário": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Countach": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Diablo": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Gallardo": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Huracán": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Murciélago": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Revuelto": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Sesto Elemento": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Sián": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Urus": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Veneno": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Mercedes": {
+        "AMG GT": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "AMG ONE": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "CLA": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "CLE": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "CLS": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "G63": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "GLA": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "GLC": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "GLE": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "SLC": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "SLK": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "SLR": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "SLS": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Nissan": {
+        "350z": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "360z": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "370z": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "400z": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Silvia S13": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Silvia S14": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Silvia S15": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Skyline R33": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Skyline R34": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Skyline R35": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Pagani": {
+        "Huayra": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Huayra Imola": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Huayra R": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Huayra R Evo": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Huayra Roadster": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Utopia": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Zonda F": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Range Rover": {
+        "Evoque": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Velar": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Vogue": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Subaru": {
+        "BRZ": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "WRX": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "WRX STI": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Toyota": {
+        "Camry": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Celica": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Corolla": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Corolla Cross": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Étios": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "GR Corolla": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "GR Supra": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "GR Yaris": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Hilux": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Prius": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "RAV4": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Supra": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "SW4": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Tacoma": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Tundra": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Yaris": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "Yaris Cross": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    },
+    "Volvo": {
+        "XC 40": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "XC 50": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "XC 60": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "XC 70": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        },
+        "XC 80": {
+            "potencia_cv": "A definir",
+            "tracao": "A definir",
+            "preco": "A definir",
+            "ano": "A definir",
+            "combustivel": "A definir"
+        }
+    }
+}
